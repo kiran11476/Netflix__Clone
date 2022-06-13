@@ -31,12 +31,16 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+  flutter_bloc: ^8.0.1
+  json_annotation: ^4.5.0
+  json_serializable: ^6.2.0
 
 dev_dependencies:
+  build_runner: ^2.1.11
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
-
+  freezed: ^2.0.3+1
   video_player: ^2.4.4
 
 # For information on the generic Dart part of this file, see the
